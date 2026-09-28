@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2bb5a3168a8581452dc55a66",
+  "owner": "jyxwre",
+  "repo": "page-cd81e5b6b94c05763a111fd8",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cd81e5b6b94c05763a111fd8",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "413d1c3f947b4791f7ec4add53def32e7c37c0a1fcf323b491a914d2eb11ac27",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN提供稳定VPN加速服务，客户端一键下载。多种套餐满足不同需求，全球高速节点，助您畅享网络加速。",
+          "AI_DESCRIPTION": "365VPN提供稳定VPN加速服务，客户端一键下载。多种套餐满足不同需求，全球高速节点，助您畅享网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #001F3F;\n            --accent: #00BFFF;\n        }\n        body {\n            font-family: system-ui, -apple-system, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: #f4f6f8;\n            color: #333;\n            line-height: 1.7;\n        }\n        .nav {\n            background: rgba(0, 31, 63, 0.95);\n            color: white;\n            position: fixed;\n            top: 0;\n            width: 100%;\n            z-index: 1000;\n            padding: 1rem 0;\n        }\n        .nav ul {\n            list-style: none;\n            margin: 0;\n            padding: 0;\n            display: flex;\n            justify-content: center;\n            gap: 2rem;\n        }\n        .nav a {\n            color: white;\n            text-decoration: none;\n            padding: 0.5rem 1rem;\n        }\n        .nav a:hover {\n            color: var(--accent);\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 1rem;\n        }\n        .hero {\n            background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);\n            color: white;\n            padding: 5rem 1rem 4rem;\n            text-align: center;\n        }\n        .hero h1 {\n            font-size: 3.5rem;\n            margin-bottom: 1rem;\n        }\n        .hero p {\n            font-size: 1.5rem;\n        }\n        .section {\n            padding: 3rem 0;\n        }\n        h2 {\n            text-align: center;\n            margin-bottom: 2rem;\n            color: var(--primary);\n        }\n        .alternating {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 2rem;\n        }\n        .alternating > div {\n            flex: 1;\n            min-width: 300px;\n            padding: 1.5rem;\n            background: white;\n            border-radius: 8px;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .card {\n            background: white;\n            border-radius: 8px;\n            padding: 1.5rem;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n        }\n        .card.featured {\n            border: 2px solid var(--accent);\n            transform: scale(1.02);\n        }\n        details {\n            background: white;\n            margin-bottom: 1rem;\n            border-radius: 8px;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            padding: 0.5rem;\n        }\n        footer {\n            background: var(--primary);\n            color: white;\n            text-align: center;\n            padding: 2rem 0;\n        }\n        @media (max-width: 768px) {\n            .nav ul {\n                flex-direction: column;\n                gap: 1rem;\n            }\n            .alternating > div {\n                flex-direction: column;\n            }\n        }\n    </style>\n\n\n    <nav class=\"nav\">\n        <div class=\"container\">\n            <ul>\n                <li><a href=\"#home\">首页</a></li>\n                <li><a href=\"#about\">关于</a></li>\n                <li><a href=\"#use\">使用</a></li>\n                <li><a href=\"#plans\">套餐</a></li>\n                <li><a href=\"#faq\">FAQ</a></li>\n                <li><a href=\"#download\">下载</a></li>\n            </ul>\n        </div>\n    </nav>\n\n    <main>\n        <section id=\"home\" class=\"hero\">\n            <div class=\"container\">\n                <h1>365VPN</h1>\n                <p>稳定高速VPN加速器<br>客户端一键下载</p>\n            </div>\n        </section>\n\n        <section id=\"about\" class=\"section\">\n            <div class=\"container\">\n                <h2>365VPN 品牌简介</h2>\n                <p>365VPN 致力于为用户提供安全、快速的网络加速解决方案。无论您是个人用户还是企业团队，我们的VPN服务都能为您带来流畅的互联网体验。</p>\n            </div>\n        </section>\n\n        <section id=\"use\" class=\"section\">\n            <div class=\"container\">\n                <h2>使用场景</h2>\n                <div class=\"alternating\">\n                    <div>\n                        <h3>🔓 科学上网</h3>\n                        <p>突破网络限制，访问被屏蔽的网站和内容。</p>\n                    </div>\n                    <div>\n                        <h3>📺 流媒体解锁</h3>\n                        <p>解锁Netflix、Disney+、YouTube 等全球热门平台。</p>\n                    </div>\n                    <div>\n                        <h3>🎮 游戏加速</h3>\n                        <p>IPLC专线优化游戏延迟，提供低延迟连接。</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"operation\" class=\"section\">\n            <div class=\"container\">\n                <h2>操作指南</h2>\n                <ol>\n                    <li>访问官网下载最新客户端</li>\n                    <li>安装程序并注册账号</li>\n                    <li>选择合适的服务器节点</li>\n                    <li>一键连接开始加速</li>\n                </ol>\n            </div>\n        </section>\n\n        <section id=\"plans\" class=\"section\">\n            <div class=\"container\">\n                <h2>套餐选择</h2>\n                {{PLANS_HTML}}\n            </div>\n        </section>\n\n        <section id=\"clients\" class=\"section\">\n            <div class=\"container\">\n                <h2>合作伙伴</h2>\n                {{CLIENTS_HTML}}\n            </div>\n        </section>\n\n        <section id=\"faq\" class=\"section\">\n            <div class=\"container\">\n                <h2>常见问题</h2>\n                <details>\n                    <summary>365VPN 是什么？</summary>\n                    <p>365VPN 是一款专注于提供稳定VPN服务的品牌，旨在帮助用户安全访问全球互联网内容。</p>\n                </details>\n                <details>\n                    <summary>如何下载客户端？</summary>\n                    <p>在官网首页找到“下载”按钮，获取适用于不同操作系统的最新客户端。</p>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <p>支持 Windows、macOS、iOS、Android 和 Linux 等主流设备。</p>\n                </details>\n                <details>\n                    <summary>节点质量如何？</summary>\n                    <p>提供高速IPLC专线和游戏加速优化，确保连接稳定可靠。</p>\n                </details>\n                <details>\n                    <summary>售后服务支持？</summary>\n                    <p>提供7x24 工单支持，团队版有专属客户经理服务。</p>\n                </details>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <div class=\"container\">\n            <p>© 2024 365VPN 版权所有</p>\n            <p>友情链接 | 广告合作</p>\n        </div>\n    </footer>\n\n",
+          "hash": "6fab9931b6068a70349fc62fa219b6d058d26e9dac4bab66878d19ea3100cc50",
+          "seo": {
+            "title": "365VPN 官网 - 高速VPN加速器 客户端下载",
+            "keywords": "365VPN,高速VPN加速器,客户端下载,VPN节点,机场订阅,365VPN官网",
+            "description": "365VPN提供稳定VPN加速服务，客户端一键下载。多种套餐满足不同需求，全球高速节点，助您畅享网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eszlzp.cn",
+    "host": "c.eszlzp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "eszlzp.cn",
+      "url": "https://eszlzp.cn/",
+      "label": "速鹰",
+      "apex": "eszlzp.cn",
+      "kind": null,
+      "identity": "jaxqghhgjxu/page-dedf7f8137a9ade14f4e86c7"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d4c53754974cad6a11ff7ef4bf096a2f36b578efc5f1c4f1769d4ebe2f4875f7",
+    "sitemap.xml": "1eb77e0e74a209680be82d7771b3f40928e06b752dcb534a695a53be731dbc34",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6f8b182e1f9b2b42751a5614564abaf5deb448bb6b5f22097ef12d89d5b27a64",
+    "robots.txt": "364f8a5436af36ffc46a978db44a5235a3d9bc1d9535e413a5ce296e630be4db",
+    "9cb5f019103d6477bf86de293132e8ec.txt": "2016294c2eb83f4b21d5e60ae2febfd168554d38087c77f5380827453ce4ff77"
+  },
+  "revision": "46e48075b163a55e8f3988750604dbb7bb89c8c54f51572277699cfa015f2412"
+}
